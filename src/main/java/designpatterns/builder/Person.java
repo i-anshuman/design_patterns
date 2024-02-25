@@ -1,10 +1,10 @@
 package designpatterns.builder;
 
 public class Person {
-  private String name;
-  private Integer age;
-  private String gender;
-  private String address;
+  private final String name;
+  private final Integer age;
+  private final String gender;
+  private final String address;
 
   public Person(String name, Integer age, String gender, String address) {
     this.name = name;
