@@ -1,0 +1,31 @@
+package designpatterns.builder;
+
+public class Person {
+  private String name;
+  private Integer age;
+  private String gender;
+  private String address;
+
+  public Person(String name, Integer age, String gender, String address) {
+    this.name = name;
+    this.age = age;
+    this.gender = gender;
+    this.address = address;
+  }
+
+  public String getName() {
+    return name;
+  }
+
+  public Integer getAge() {
+    return age;
+  }
+
+  public String getGender() {
+    return gender;
+  }
+
+  public String getAddress() {
+    return address;
+  }
+}
