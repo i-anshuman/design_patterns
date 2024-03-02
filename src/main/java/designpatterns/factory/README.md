@@ -111,3 +111,10 @@ the application evolves, new document types may be added.
   enhancing maintainability.
 
 > Overall, the Factory Pattern facilitates the creation of flexible and maintainable document processing applications by encapsulating object creation logic and promoting abstraction and loose coupling between components.
+
+---
+
+## Class Diagram
+
+![Class diagram of factory design pattern.](../../../resources/images/factory.png "Factory Design Pattern")
+

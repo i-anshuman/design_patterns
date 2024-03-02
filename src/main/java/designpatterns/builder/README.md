@@ -122,3 +122,11 @@ When the number of attributes or options increases, modifying constructors by ad
     ```
 
 > In this example, the Builder Design Pattern enables us to construct `Person` objects with different combinations of attributes in a flexible and maintainable way. We achieve this by separating the construction process from the representation of the `Person` object and providing a fluent interface for setting attributes using the builder. This approach helps us to achieve immutability and improves readability, extensibility, and maintainability of the code.
+
+---
+
+## Class Diagram
+
+![Class diagram of builder design pattern.](../../../resources/images/builder.png "Builder Design Pattern")
+
+---

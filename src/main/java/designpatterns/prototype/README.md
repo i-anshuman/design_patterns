@@ -101,6 +101,14 @@ public class Person implements Cloneable {
 
 > By following these steps, you can implement the Prototype Design Pattern. This pattern allows for the creation and modification of person instances while ensuring that the original prototype remains unchanged. It provides a flexible and efficient way to create new objects with customized properties based on existing prototypes.
 
+
+---
+
+## Class Diagram
+
+![Class diagram of prototype design pattern.](../../../resources/images/prototype.png "Prototype Design Pattern")
+
+
 ---
 
 ## References

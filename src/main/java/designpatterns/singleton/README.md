@@ -316,6 +316,12 @@ To prevent reflection from breaking the Singleton pattern, you need to implement
 
 ---
 
+## Class Diagram
+
+![Class diagram of singleton design pattern.](../../../resources/images/singleton.png "Singleton Design Pattern")
+
+---
+
 ## References
 
 ### 1. `volatile` keyword

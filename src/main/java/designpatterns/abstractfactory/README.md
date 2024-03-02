@@ -171,3 +171,11 @@ Suppose you are developing a GUI application that needs to support multiple plat
     ```
 
 > Overall abstract factory design pattern make it easy to manage and modify component logic and adding new platform without affecting client code.
+
+---
+
+## Class Diagram
+
+![Class diagram of abstract factory design pattern.](../../../resources/images/abstract_factory.png "Abstract Factory Design Pattern")
+
+---
